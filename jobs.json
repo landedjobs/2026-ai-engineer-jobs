@@ -1,7 +1,795 @@
 [
-  {"company": "Anthropic", "role": "AI Engineer", "location": "San Francisco / Remote", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "salary": "$200k–$350k", "skills": ["Python", "LLMs", "Evals"]},
-  {"company": "Perplexity", "role": "AI Engineer (RAG)", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-23", "url": "https://landed.b100x.ai", "salary": "$180k–$300k", "skills": ["RAG", "Vector DB", "Python"]},
-  {"company": "Ramp", "role": "AI Engineer", "location": "New York / Remote", "type": "Full-time", "posted": "2026-06-22", "url": "https://landed.b100x.ai", "salary": "$190k–$280k", "skills": ["LangChain", "APIs", "TypeScript"]},
-  {"company": "Sierra", "role": "Applied AI Engineer", "location": "Remote (US)", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Agents", "Python", "Evals"]},
-  {"company": "Razorpay", "role": "AI Engineer", "location": "Bangalore, India", "type": "Full-time", "posted": "2026-06-20", "url": "https://landed.b100x.ai", "skills": ["Python", "LLMs", "RAG"]}
+  {
+    "company": "monday.com",
+    "role": "Applied AI Engineering Tech Lead (TLV)",
+    "location": "Tel Aviv, Remote",
+    "type": "Senior",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/monday.com/fa00e0e2-4ff6-45e7-a6d5-273f5e552c83/application",
+    "skills": [
+      "LLM agents",
+      "agentic features",
+      "software engineering",
+      "production deployment",
+      "agent frameworks",
+      "quality evaluation"
+    ]
+  },
+  {
+    "company": "Etched",
+    "role": "Applied AI Engineer, Silicon Engineering",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-06-21",
+    "url": "https://jobs.ashbyhq.com/etched/831bfa22-d883-450b-9b10-2a16421525a0/application",
+    "skills": [
+      "AI",
+      "LLM",
+      "EDA",
+      "debug",
+      "verification",
+      "simulators"
+    ]
+  },
+  {
+    "company": "Mirage",
+    "role": "ML Engineer, Agentic Systems",
+    "location": "Union Square, New York City",
+    "type": "Full-time",
+    "posted": "2026-06-20",
+    "url": "https://jobs.ashbyhq.com/mirage/dc97e719-f69a-47bb-812e-1ea9e7693662/application",
+    "skills": [
+      "large language models",
+      "agentic systems",
+      "video data processing",
+      "interaction design"
+    ]
+  },
+  {
+    "company": "Mirage",
+    "role": "ML Engineer, Generative Video",
+    "location": "Union Square, New York City",
+    "type": "Full-time",
+    "posted": "2026-06-20",
+    "url": "https://jobs.ashbyhq.com/mirage/d8b43e0a-3a1a-462a-a845-6ed888c08b57/application",
+    "skills": [
+      "video generation",
+      "model training",
+      "inference optimization",
+      "systems engineering"
+    ]
+  },
+  {
+    "company": "Encord",
+    "role": "Machine Learning Engineer",
+    "location": "London",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://jobs.ashbyhq.com/encord/a9f062da-4ff8-450f-ac16-f7f9bd54233a/application",
+    "skills": [
+      "Machine Learning",
+      "Computer Vision",
+      "Python",
+      "Deep Learning",
+      "ReactJS"
+    ]
+  },
+  {
+    "company": "Dialpad",
+    "role": "AI Engineer",
+    "location": "Kitchener, Canada",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/dialpad/jobs/8601273002",
+    "skills": [
+      "Text-to-Speech (TTS)",
+      "speech recognition",
+      "linguistic optimization"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job-29944] AI Engineer Senior (Javascript/React)",
+    "location": "Bras\u00edlia, Remote",
+    "type": "Senior",
+    "posted": "2026-06-19",
+    "url": "https://jobs.lever.co/ciandt/81b12639-a9c8-4d83-a9f3-4d992f7c7c89/apply",
+    "skills": [
+      "AWS",
+      "LLMs",
+      "AI agents",
+      "Generative AI",
+      "AI-assisted development"
+    ]
+  },
+  {
+    "company": "Pennylane",
+    "role": "AI Engineer",
+    "location": "All France (remote), Remote",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://jobs.ashbyhq.com/pennylane/e890b119-1c67-46da-b916-88dbb1603b9c/application",
+    "skills": []
+  },
+  {
+    "company": "Mozilla",
+    "role": "Senior Machine Learning Engineer, Applied AI Modeling",
+    "location": "Remote US, Remote",
+    "type": "Senior",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/mozilla/jobs/8017587",
+    "skills": []
+  },
+  {
+    "company": "Headway",
+    "role": "Applied AI Lead, Rev Ops",
+    "location": "Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/headway/0ab369ee-465c-4aa0-8517-a5d71ab1e659/application",
+    "skills": [
+      "AI",
+      "automation",
+      "workflow optimization",
+      "Claude",
+      "Clay",
+      "Glean"
+    ]
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer - Enterprise Lead",
+    "location": "San Francisco, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/a5d2b03b-61e2-4a83-9e74-beea1e3e7e72/application",
+    "skills": []
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer - Lead",
+    "location": "San Francisco, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/553bd8ed-25f2-4bcf-817a-f17ddc816896/application",
+    "skills": [
+      "AI systems",
+      "production AI systems",
+      "architecture",
+      "technical execution"
+    ]
+  },
+  {
+    "company": "Distyl",
+    "role": "AI Engineer, Evaluation",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/13aa2aa1-e5e4-4bab-b2ea-7d8ff5658076/application",
+    "skills": [
+      "Python"
+    ]
+  },
+  {
+    "company": "Distyl",
+    "role": "Forward Deployed AI Engineer",
+    "location": "San Francisco, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/Distyl/46728319-c47a-48c8-bbfb-af0d9bff2ea2/application",
+    "skills": [
+      "AI systems",
+      "production AI systems",
+      "software",
+      "AI workflow"
+    ]
+  },
+  {
+    "company": "Hinge",
+    "role": "Principal, Applied AI Enablement, Legal",
+    "location": "West Hollywood, California",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.lever.co/matchgroup/2cd2616d-a5b9-4514-961e-da95fb60112a/apply",
+    "skills": [
+      "AI"
+    ]
+  },
+  {
+    "company": "AssemblyAI",
+    "role": "Applied AI Engineer",
+    "location": "New York City / San Francisco",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4707265005",
+    "skills": []
+  },
+  {
+    "company": "Grafana Labs",
+    "role": "Senior AI Engineer | US | Remote",
+    "location": "United States (Remote), Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004",
+    "skills": [
+      "AI",
+      "automation",
+      "multi-agent architectures",
+      "LLM integrations",
+      "backend services"
+    ]
+  },
+  {
+    "company": "Grafana Labs",
+    "role": "Senior AI Engineer | Canada | Remote",
+    "location": "Canada (Remote), Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004",
+    "skills": [
+      "AI",
+      "automation",
+      "multi-agent architectures",
+      "LLM integrations",
+      "backend services"
+    ]
+  },
+  {
+    "company": "Celonis",
+    "role": "Associate Applied AI Engineer (Benelux) - Orbit Program",
+    "location": "Madrid, Spain",
+    "type": "New Grad",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/7765936003?gh_jid=7765936003",
+    "skills": [
+      "Process Intelligence",
+      "Process Mining",
+      "AI capabilities",
+      "technical solutions",
+      "data insights"
+    ]
+  },
+  {
+    "company": "Alice & Bob",
+    "role": "Senior Applied AI Engineer",
+    "location": "Paris",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.lever.co/alice-bob/a018feee-257e-49f4-b744-f3deff43998a/apply",
+    "skills": [
+      "AI",
+      "quantum computing",
+      "R&D",
+      "simulation",
+      "automation"
+    ]
+  },
+  {
+    "company": "Multiverse",
+    "role": "Staff AI Engineer - AI Transformation",
+    "location": "London, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/multiverse/758c98cd-fce3-49e7-b81d-a003dfe7ac4f/application",
+    "skills": []
+  },
+  {
+    "company": "Multiverse",
+    "role": "Senior AI Engineer - AI Transformation",
+    "location": "London, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/multiverse/58389a21-a599-43b6-9869-9885a16e2072/application",
+    "skills": [
+      "AI",
+      "data",
+      "tech skills",
+      "upskilling",
+      "productivity"
+    ]
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Senior Machine Learning Engineer, User Signal & Ads",
+    "location": "Bellevue, United States",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690328006",
+    "skills": [
+      "User Signals",
+      "Behavioral Events",
+      "Contextual Data",
+      "Engagement History",
+      "Identity Signals",
+      "Feature Pipelines"
+    ]
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Machine Learning Engineer (NCG 2026)",
+    "location": "San Jose, United States",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4646633005",
+    "skills": [
+      "AI",
+      "deep learning",
+      "generative AI",
+      "EDA (Electronic Design Automation)",
+      "circuit design",
+      "design verification"
+    ]
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Applied AI Engineer, Advertising Agents",
+    "location": "Mountain View, United States",
+    "type": "Full-time",
+    "posted": "2026-06-17",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4690262006",
+    "skills": [
+      "LLMs",
+      "Multimodal Foundation Models"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Senior AI Engineer - Multi-Agent Frameworks",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/b8ff5d05-8158-42bb-8d87-296848a0e99f/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "orchestration software",
+      "LangGraph"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Staff AI Engineer - AI Platform",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/143d20ff-cc53-4dc0-bc8b-09a7c1bddf87/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "APIs",
+      "model serving",
+      "monitoring",
+      "logging"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Senior AI Engineer - AI Product",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/40010433-0765-440a-ad17-f071f3b969f9/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "product development",
+      "user experience"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Senior AI Engineer, Voice Platform",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/ab3a5c0c-7f86-47e7-9001-055598908b6a/application",
+    "skills": [
+      "speech-to-text",
+      "ASR",
+      "LLM",
+      "natural language processing"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Staff AI Engineer - AI Product",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/f5d084a8-254c-49a8-ab9c-d34a3acf9a00/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "scalable applications",
+      "AI-powered features",
+      "context-aware experiences",
+      "prototyping"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Senior AI Engineer - AI Platform",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/04f5dc76-f4d1-4112-9cff-79d3c202c8a6/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "APIs",
+      "model serving",
+      "monitoring",
+      "logging"
+    ]
+  },
+  {
+    "company": "ClickUp",
+    "role": "Staff AI Engineer - Multi-Agent Frameworks",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.ashbyhq.com/clickup/1203026f-5c19-45e5-a0c2-b5cc0338a1e8/application",
+    "skills": [
+      "AI",
+      "large language models",
+      "orchestration software",
+      "LangGraph"
+    ]
+  },
+  {
+    "company": "Alice & Bob",
+    "role": "Senior ML Engineer",
+    "location": "Paris",
+    "type": "Senior",
+    "posted": "2026-06-17",
+    "url": "https://jobs.lever.co/alice-bob/2772fc1e-0b49-4b4c-b816-c736f083dd0d/apply",
+    "skills": [
+      "Machine Learning",
+      "quantum computing",
+      "architectural design",
+      "technical direction",
+      "ML stack"
+    ]
+  },
+  {
+    "company": "Astera Labs",
+    "role": "AI/ML Engineer",
+    "location": "San Jose, United States",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4706552005",
+    "skills": [
+      "AI",
+      "ML",
+      "production AI systems",
+      "coding agents",
+      "terminal environments",
+      "IDE environments"
+    ]
+  },
+  {
+    "company": "Komodo Health",
+    "role": "Full-Stack AI Engineer (evergreen)",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8584991002",
+    "skills": []
+  },
+  {
+    "company": "GoFundMe",
+    "role": "Senior Agentic AI Engineer",
+    "location": "Buenos Aires, Argentina",
+    "type": "Senior",
+    "posted": "2026-06-16",
+    "url": "https://job-boards.greenhouse.io/gofundme/jobs/7967633",
+    "skills": [
+      "LLM",
+      "autonomous agents",
+      "orchestration systems",
+      "multi-agent orchestration",
+      "real-time orchestration",
+      "LangGraph"
+    ]
+  },
+  {
+    "company": "monday.com",
+    "role": "AI Engineer (New Ventures)",
+    "location": "Tel Aviv, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-16",
+    "url": "https://jobs.ashbyhq.com/monday.com/077675a8-bfb6-47f4-a466-347561c26258/application",
+    "skills": []
+  },
+  {
+    "company": "Chef Robotics",
+    "role": "Senior ML Engineer, Manipulation",
+    "location": "San Francisco",
+    "type": "Senior",
+    "posted": "2026-06-15",
+    "url": "https://jobs.lever.co/ChefRobotics/ad92bc91-ae6b-4ef1-a794-97913052b20a/apply",
+    "skills": [
+      "machine learning",
+      "robotics",
+      "data collection",
+      "training policies",
+      "debugging"
+    ]
+  },
+  {
+    "company": "Chef Robotics",
+    "role": "Senior ML Engineer, Foundation Models",
+    "location": "San Francisco",
+    "type": "Senior",
+    "posted": "2026-06-15",
+    "url": "https://jobs.lever.co/ChefRobotics/a4c25a10-b811-4002-b0c9-4319bdee14a3/apply",
+    "skills": [
+      "machine learning",
+      "robotics",
+      "data infrastructure",
+      "policy learning",
+      "generative modeling",
+      "world model literature"
+    ]
+  },
+  {
+    "company": "Highspot",
+    "role": "Principal Software Engineer, Applied AI",
+    "location": "Seattle",
+    "type": "Senior",
+    "posted": "2026-06-15",
+    "url": "https://jobs.lever.co/highspot/f222ad5c-b7dd-43c4-9008-ee1a53174afa/apply",
+    "skills": []
+  },
+  {
+    "company": "Handshake",
+    "role": "Machine Learning Engineer I",
+    "location": "San Francisco, CA",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+    "skills": [
+      "machine learning",
+      "AI",
+      "data-intensive techniques"
+    ]
+  },
+  {
+    "company": "Docker",
+    "role": "ML Engineer",
+    "location": "Palo Alto, CA, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-15",
+    "url": "https://jobs.ashbyhq.com/docker/29af4c7f-6c9b-4bb4-a5fa-4950fa292be4/application",
+    "skills": []
+  },
+  {
+    "company": "Docker",
+    "role": "Staff ML Engineer",
+    "location": "Palo Alto, CA, Remote",
+    "type": "Senior",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/docker/fcbea485-42fe-459a-b016-509686e6c7be/application",
+    "skills": []
+  },
+  {
+    "company": "Faculty",
+    "role": "Machine Learning Engineer",
+    "location": "UK - London, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-12",
+    "url": "https://jobs.ashbyhq.com/faculty/7a6e49b5-3f14-4d23-9abe-ec285ce7ee2e/application",
+    "skills": []
+  },
+  {
+    "company": "Acquia",
+    "role": "Staff AI Engineer",
+    "location": "Remote-United-States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-12",
+    "url": "https://job-boards.greenhouse.io/acquia/jobs/7819079",
+    "skills": [
+      "AI",
+      "agentic AI",
+      "LangGraph",
+      "Temporal",
+      "Pydantic",
+      "LangFuse"
+    ]
+  },
+  {
+    "company": "CI&T",
+    "role": "[Job 29881]  Senior Machine Learning Engineer (AI), Brazil",
+    "location": "Brazil, Remote",
+    "type": "Senior",
+    "posted": "2026-06-11",
+    "url": "https://jobs.lever.co/ciandt/766d4c1c-860d-468c-8dcf-06799fb8aa86/apply",
+    "skills": [
+      "Machine Learning",
+      "Python",
+      "PySpark",
+      "scikit-learn",
+      "TensorFlow",
+      "PyTorch"
+    ]
+  },
+  {
+    "company": "Bandwidth",
+    "role": "Applied AI Engineer",
+    "location": "Raleigh, NC",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8001620",
+    "skills": [
+      "AI",
+      "API",
+      "automation",
+      "infrastructure",
+      "monitoring"
+    ]
+  },
+  {
+    "company": "Affinity",
+    "role": "Senior AI Engineer",
+    "location": "Canada (Remote), Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://job-boards.greenhouse.io/affinity/jobs/7768866003",
+    "skills": [
+      "RAG",
+      "LLM",
+      "information extraction",
+      "information storage",
+      "information retrieval",
+      "vector search"
+    ]
+  },
+  {
+    "company": "Justworks",
+    "role": "Senior AI Engineer - AI Frontiers",
+    "location": "New York, New York",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://boards.greenhouse.io/justworks/jobs/7996868?gh_jid=7996868",
+    "skills": []
+  },
+  {
+    "company": "Owner.com",
+    "role": "Lead, Customer Strategy Analytics & Applied AI",
+    "location": "Remote - United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/Owner/2113febe-4742-43e5-a7cd-72d754d26cdf/application",
+    "skills": []
+  },
+  {
+    "company": "Anthropic",
+    "role": "Applied AI Security Architect",
+    "location": "London, UK",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227641008",
+    "skills": []
+  },
+  {
+    "company": "Peregrine",
+    "role": "Software Engineer, Applied AI/ML",
+    "location": "San Francisco, Unites States",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4704778005",
+    "skills": [
+      "AI",
+      "ML",
+      "software engineering",
+      "generative AI",
+      "user experience",
+      "natural language processing"
+    ]
+  },
+  {
+    "company": "NewsBreak",
+    "role": "Machine Learning Engineer, LLM Post-Training",
+    "location": "Mountain View, United States",
+    "type": "Full-time",
+    "posted": "2026-06-10",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4688409006",
+    "skills": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Continuous Pre-Training",
+      "Supervised Fine-Tuning",
+      "RLHF",
+      "PPO"
+    ]
+  },
+  {
+    "company": "G2",
+    "role": "Senior AI Engineer",
+    "location": "Remote (US), Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/G2/0ea59abf-fcb1-4750-bc55-0998e3beb84a/application",
+    "skills": []
+  },
+  {
+    "company": "OpenGov",
+    "role": "Sr. Analyst, Applied AI (G&A Intelligence)",
+    "location": "US | Illinois | Chicago",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/opengov/2c59a892-84e0-4dd1-9464-70610ca1d54f/application",
+    "skills": []
+  },
+  {
+    "company": "Patsnap",
+    "role": "Senior AI Engineer",
+    "location": "Singapore",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.lever.co/patsnap/d338cfc9-9991-4bd0-a6d4-c7371b75ce62/apply",
+    "skills": [
+      "backend engineering",
+      "LLM application",
+      "product sense"
+    ]
+  },
+  {
+    "company": "Culture Amp",
+    "role": "Staff Applied AI Scientist",
+    "location": "Sydney",
+    "type": "Senior",
+    "posted": "2026-06-09",
+    "url": "https://job-boards.greenhouse.io/cultureamp/jobs/7994439",
+    "skills": [
+      "AI Engineering",
+      "observability",
+      "evaluation frameworks"
+    ]
+  },
+  {
+    "company": "Lyra Health",
+    "role": "Senior ML Engineer (ML/AI)",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-09",
+    "url": "https://jobs.lever.co/lyrahealth/d33ddfed-8c69-4e29-966b-0e190190cd6a/apply",
+    "skills": [
+      "AI",
+      "ML",
+      "predictive analytics",
+      "Natural Language Processing",
+      "Generative AI"
+    ]
+  },
+  {
+    "company": "Credo AI",
+    "role": "Senior AI Engineer, AI Systems (India)",
+    "location": "India Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-06-09",
+    "url": "https://jobs.ashbyhq.com/credo.ai/73f15a77-9b84-46de-bd9e-bf76f70b6d84/application",
+    "skills": [
+      "AI governance",
+      "AI risk assessment",
+      "compliance",
+      "EU AI Act",
+      "NIST AI RMF",
+      "ISO 42001"
+    ]
+  },
+  {
+    "company": "Mozilla",
+    "role": "Senior Machine Learning Engineer, AI Platform",
+    "location": "Remote Canada, Remote",
+    "type": "Senior",
+    "posted": "2026-06-09",
+    "url": "https://job-boards.greenhouse.io/mozilla/jobs/7993049",
+    "skills": [
+      "Machine learning",
+      "Distributed systems",
+      "Model training",
+      "Infrastructure"
+    ]
+  }
 ]
