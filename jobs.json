@@ -1,0 +1,7 @@
+[
+  {"company": "Anthropic", "role": "AI Engineer", "location": "San Francisco / Remote", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "salary": "$200k–$350k", "skills": ["Python", "LLMs", "Evals"]},
+  {"company": "Perplexity", "role": "AI Engineer (RAG)", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-23", "url": "https://landed.b100x.ai", "salary": "$180k–$300k", "skills": ["RAG", "Vector DB", "Python"]},
+  {"company": "Ramp", "role": "AI Engineer", "location": "New York / Remote", "type": "Full-time", "posted": "2026-06-22", "url": "https://landed.b100x.ai", "salary": "$190k–$280k", "skills": ["LangChain", "APIs", "TypeScript"]},
+  {"company": "Sierra", "role": "Applied AI Engineer", "location": "Remote (US)", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Agents", "Python", "Evals"]},
+  {"company": "Razorpay", "role": "AI Engineer", "location": "Bangalore, India", "type": "Full-time", "posted": "2026-06-20", "url": "https://landed.b100x.ai", "skills": ["Python", "LLMs", "RAG"]}
+]
